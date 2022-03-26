@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![stelsp's GitHub stats](https://github-readme-stats.vercel.app/api?username=stelsp)]
+![stelsp's GitHub stats](https://github-readme-stats.vercel.app/api?username=StelsP)
+
+        
 <!--
 **StelsP/StelsP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
