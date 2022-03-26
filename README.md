@@ -6,8 +6,8 @@
 + Стремлюсь развиваться и стать отличным специалистом в своей сфере ⚡
 
 ### 🏆 Моя статистика:
-![StelsP's GitHub stats](https://github-readme-stats.vercel.app/api?username=StelsP&theme=dark&show_icons=true)
+[![StelsP's GitHub stats](https://github-readme-stats.vercel.app/api?username=StelsP&theme=dark&show_icons=true)(https://github.com/StelsP)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StelsP&layout=compact&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StelsP&layout=compact&theme=dark&show_icons=true)(https://github.com/StelsP)]
 
 ### 📫 Contacts:
