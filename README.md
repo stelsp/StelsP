@@ -6,12 +6,8 @@
 + Стремлюсь развиваться и стать отличным специалистом в своей сфере ⚡
 
 ### Мой стек:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/7c797fa8fdf733da50ca1011acf54935831968872a65df6dbfabaaba49b5cdd0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d4a61766153637269707426636f6c6f723d626c61636b266c6f676f3d6a617661736372697074"></code>
+
 
 ### 🏆 Моя статистика:
 [![StelsP's GitHub stats](https://github-readme-stats.vercel.app/api?username=StelsP&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/StelsP)
@@ -19,7 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StelsP&layout=compact&theme=dark&show_icons=true)](https://github.com/StelsP)
 
 ### 📫 Contacts:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gmail/gmail.png"></code>
+
 
 
