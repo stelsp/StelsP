@@ -6,15 +6,34 @@
 + Стремлюсь развиваться и стать отличным специалистом в своей сфере ⚡
 
 ### 🔨 Мой стек:
-<div>
-<img height="20" src="https://camo.githubusercontent.com/2579e1453f86ae4b9adcbdd8a9a3ad389b6d3698e860b70d65633c2932f7f4d0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d526561637426636f6c6f723d626c61636b266c6f676f3d7265616374">
-<img height="20" src="https://camo.githubusercontent.com/7c797fa8fdf733da50ca1011acf54935831968872a65df6dbfabaaba49b5cdd0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d4a61766153637269707426636f6c6f723d626c61636b266c6f676f3d6a617661736372697074">
-<img height="20" src="https://camo.githubusercontent.com/452be09b5507737b6c34bbf66b5fbbf343b3379f7de7f0879716113f83a88ff5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d48544d4c26636f6c6f723d626c61636b266c6f676f3d48544d4c35">
-<img height="20" src="https://camo.githubusercontent.com/93fd2caceb8856819f36bd9edb811b1501799d069d315b605afccb436acad743/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d43535326636f6c6f723d626c61636b266c6f676f3d43535333">
-<img height="20" src="https://camo.githubusercontent.com/f9520deae0b727abb45c179e26ef8bde02579c0f7757157db1b65b466ce3aef1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d5765627061636b26636f6c6f723d626c61636b266c6f676f3d5765627061636b">
-<img height="20" src="https://camo.githubusercontent.com/d9a7445541dfe55775bae8057b4858f95dc2c624a22b87ea834ce4d8dca8f9c4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d47495426636f6c6f723d626c61636b266c6f676f3d676974">
-<img height="20" src="https://camo.githubusercontent.com/09c381b554dafd01ab09343b0588e58f8709c3bcfa98aed6d68a0fc2e683ae2c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d4669676d6126636f6c6f723d626c61636b266c6f676f3d4669676d61">
-</div>
+<p align="left"> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"   alt="sass" width="40" height="40"/> 
+  </a> 
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+</p>
 
 ### 🏆 Моя статистика:
 [![StelsP's GitHub stats](https://github-readme-stats.vercel.app/api?username=StelsP&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/StelsP)
