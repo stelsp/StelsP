@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&height=80&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+===+Slava;I+🖤+Front+End;My+experience+>+1+years+in+programming;)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+===+Slava;I+🖤+Front+End;My+experience+>+1+years+in+programming;)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -29,9 +29,9 @@
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=StelsP&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="1PopovAleksey github stats" /> 
